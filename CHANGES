@@ -1,5 +1,9 @@
 Changes file for Module::Husbandry
 
+0.002 Fri Feb 28 09:08:31 EST 2003
+    - Add bin/cppm and bin/rmpm to the manifest (should have used cppm for them
+      instead of cp ;)  Reported by Autrijus Tang <autrijus@autrijus.org>
+
 0.001 Wed Feb 26 08:51:20 EST 2003
     - rmpm now updates the manifest
     - Added cppm

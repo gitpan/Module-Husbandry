@@ -1,6 +1,6 @@
 package Module::Husbandry;
 
-$VERSION = 0.001;
+$VERSION = 0.002;
 
 use Exporter;
 @ISA = qw( Exporter );
